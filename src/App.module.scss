@@ -1,0 +1,17 @@
+.container {
+  margin-bottom: 20px;
+
+  .box {
+    background-color: white;
+    height: auto;
+    padding: 40px 20px 0;
+
+    .cardsWrap {
+      display: flex;
+      flex-wrap: wrap;
+      padding-bottom: 40px;
+    }
+  }
+}
+
+

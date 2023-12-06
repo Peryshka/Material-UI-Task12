@@ -1,0 +1,52 @@
+.cardWrap {
+  margin-top: 40px;
+  display: flex;
+  margin-right: 15px;
+
+  &:last-child {
+    margin-right: 0;
+  }
+
+  .mainCardWrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+
+    .mainTitle {
+      color: black;
+      font-weight: bold;
+      font-size: 30px;
+    }
+
+    .desc {
+      color: black;
+    }
+
+    .card {
+      width: 50px;
+
+      .cardActions {
+        display: flex;
+        justify-content: space-between;
+
+        .watchIcon {
+          height: 20px;
+          width: 20px;
+        }
+
+      }
+    }
+
+  }
+
+}
+
+:global .MuiButtonBase-root.MuiButton-root.MuiButton-text {
+  text-transform: capitalize;
+  color: black;
+}
+
+
+
