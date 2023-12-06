@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Material-UI-Task12/static/css/main.c6305897.css",
+    "main.js": "/Material-UI-Task12/static/js/main.ac37b505.js",
+    "static/media/slack.png": "/Material-UI-Task12/static/media/slack.d3f62498357edbdf0b38.png",
+    "static/media/dropbox.png": "/Material-UI-Task12/static/media/dropbox.babd03a5fd9b89f2a49d.png",
+    "static/media/github.png": "/Material-UI-Task12/static/media/github.d3263084234dc705b2ae.png",
+    "static/media/medium.png": "/Material-UI-Task12/static/media/medium.3d8af355ac981a00d24a.png",
+    "static/media/social.png": "/Material-UI-Task12/static/media/social.d38b0f2cd6bdfa8e4d5f.png",
+    "index.html": "/Material-UI-Task12/index.html",
+    "main.c6305897.css.map": "/Material-UI-Task12/static/css/main.c6305897.css.map",
+    "main.ac37b505.js.map": "/Material-UI-Task12/static/js/main.ac37b505.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6305897.css",
+    "static/js/main.ac37b505.js"
+  ]
+}
